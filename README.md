@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://github.com/HENRYCCHH/HENRYCCHH/blob/5a25acc627611d0449ed5bde0ec44fb66ad21933/github-header-image.png"  />
+  <img height="400 weight=2500" src="https://github.com/HENRYCCHH/HENRYCCHH/blob/5a25acc627611d0449ed5bde0ec44fb66ad21933/github-header-image.png"  />
 </div>
 
 ###
@@ -126,7 +126,7 @@ Provides volume adjustment.
 
 
 <div align="center">
-  <img height="500" src="https://github.com/HENRYCCHH/HENRYCCHH/blob/5a25acc627611d0449ed5bde0ec44fb66ad21933/github-header-image.png"  />
+  <img height="400" src="https://github.com/HENRYCCHH/HENRYCCHH/blob/5a25acc627611d0449ed5bde0ec44fb66ad21933/github-header-image.png"  />
 </div>
 
 ###

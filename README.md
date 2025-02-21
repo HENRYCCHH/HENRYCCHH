@@ -37,7 +37,7 @@ The project involves developing a random forest model from scratch and investiga
 This project involves the development of a fuel price forecasting application prototype utilizing real-world data. The application is designed to generate data-driven fuel price predictions, providing valuable insights for users. A video demonstration showcases the key concepts and design, addressing a market gap by integrating price prediction with a price lock feature, allowing customers to secure the lowest possible fuel prices.
 
 <br></br>
-## Web-based Project:
+## Web-Based Projects:
 
 ## [Online Car Rental System (2023)](https://github.com/HENRYCCHH/Online_Car_Rental_System)
 A web-based platform that allows users to browse, book, and manage car rentals efficiently.

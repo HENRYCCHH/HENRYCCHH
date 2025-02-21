@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400 weight=800" src="https://github.com/HENRYCCHH/HENRYCCHH/blob/ee7bb92408599f07126e60a63a94da03e3020fd0/Navy%20Purple%20Blob%20Technology%20Metaverse%20Presentation_trasparent.png"  />
+  <img height="360 weight=800" src="https://github.com/HENRYCCHH/HENRYCCHH/blob/ee7bb92408599f07126e60a63a94da03e3020fd0/Navy%20Purple%20Blob%20Technology%20Metaverse%20Presentation_trasparent.png"  />
 </div>
 
 ###

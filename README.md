@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=" "  />
+  <img height="500" src="https://github.com/HENRYCCHH/HENRYCCHH/blob/5a25acc627611d0449ed5bde0ec44fb66ad21933/github-header-image.png"  />
 </div>
 
 ###
@@ -124,12 +124,9 @@ Provides volume adjustment.
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
-  <img height="200" src=" "  />
+  <img height="500" src="https://github.com/HENRYCCHH/HENRYCCHH/blob/5a25acc627611d0449ed5bde0ec44fb66ad21933/github-header-image.png"  />
 </div>
 
 ###

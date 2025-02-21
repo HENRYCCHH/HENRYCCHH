@@ -126,7 +126,7 @@ Provides volume adjustment.
 
 
 <div align="center">
-  <img height="400" src="https://github.com/HENRYCCHH/HENRYCCHH/blob/5a25acc627611d0449ed5bde0ec44fb66ad21933/github-header-image.png"  />
+  <img height="450" src="https://github.com/HENRYCCHH/HENRYCCHH/blob/0cf96cc4752528698c066e86601be4689e6810e2/Navy%20Purple%20Blob%20Technology%20Metaverse%20Presentation_trasparent%20inverse.png"  />
 </div>
 
 ###

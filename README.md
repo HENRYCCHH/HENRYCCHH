@@ -33,7 +33,7 @@ This project demonstrates the data pipeline for classifying the spectral types o
 ## [Random Forest model implementation (2024)](https://github.com/HENRYCCHH/random_forest_model_implementation)
 The project involves developing a random forest model from scratch and investigating the behavior of this bagging-based ensemble tree structure.
 
-## [Fuel price forecasting application prototyping and video demonstration (2024)](https://youtu.be/247Yvbs0aCM)
+## [Fuel price forecasting application video demonstration (2024)](https://youtu.be/247Yvbs0aCM)
 This project involves the development of a fuel price forecasting application prototype utilizing real-world data. The application is designed to generate data-driven fuel price predictions, providing valuable insights for users. A video demonstration showcases the key concepts and design, addressing a market gap by integrating price prediction with a price lock feature, allowing customers to secure the lowest possible fuel prices.
 
 <br></br>

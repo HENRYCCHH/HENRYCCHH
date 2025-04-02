@@ -27,7 +27,7 @@ Repositories:
 - A full web application developed in collaboration with [StvChm9703](https://github.com/Stvchm9703/job-seek)
 - [Job Seeker Video Illustration](https://youtu.be/AqKWgewsZsU) – Showcases the platform in action
 
-## [Energy Oracle - Personalised Fuel Price fForecasting Application Video Demonstration (2024)](https://youtu.be/247Yvbs0aCM)
+## [Energy Oracle - Fuel Price Forecasting Application Video Demonstration (2024)](https://youtu.be/247Yvbs0aCM)
 This project involves the development of a fuel price forecasting application prototype utilizing real-world data. The application is designed to generate data-driven fuel price predictions, providing valuable insights for users. A video demonstration showcases the key concepts and design, addressing a market gap by integrating price prediction with a price lock feature, allowing customers to secure the lowest possible fuel prices.
 
 ## [Stellar Predictive Modeling Pipeline (2024)](https://github.com/HENRYCCHH/Stellar_classification_on_Gaia_Data)

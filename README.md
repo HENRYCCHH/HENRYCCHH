@@ -27,14 +27,16 @@ Repositories:
 - A full web application developed in collaboration with [StvChm9703](https://github.com/Stvchm9703/job-seek)
 - [Job Seeker Video Illustration](https://youtu.be/AqKWgewsZsU) – Showcases the platform in action
 
-## [Stellar Classification project on Gaia data (2024)](https://github.com/HENRYCCHH/Stellar_classification_on_Gaia_Data)
+## [Energy Oracle - Personalised Fuel Price fForecasting Application Video Demonstration (2024)](https://youtu.be/247Yvbs0aCM)
+This project involves the development of a fuel price forecasting application prototype utilizing real-world data. The application is designed to generate data-driven fuel price predictions, providing valuable insights for users. A video demonstration showcases the key concepts and design, addressing a market gap by integrating price prediction with a price lock feature, allowing customers to secure the lowest possible fuel prices.
+
+## [Stellar Predictive Modeling Pipeline (2024)](https://github.com/HENRYCCHH/Stellar_classification_on_Gaia_Data)
 This project demonstrates the data pipeline for classifying the spectral types of celestial bodies using Gaia data. The project covers data cleaning, preprocessing, and feature engineering, followed by model selection to achieve the best classification performance.
 
 ## [Random Forest model implementation (2024)](https://github.com/HENRYCCHH/random_forest_model_implementation)
 The project involves developing a random forest model from scratch and investigating the behavior of this bagging-based ensemble tree structure.
 
-## [Fuel price forecasting application video demonstration (2024)](https://youtu.be/247Yvbs0aCM)
-This project involves the development of a fuel price forecasting application prototype utilizing real-world data. The application is designed to generate data-driven fuel price predictions, providing valuable insights for users. A video demonstration showcases the key concepts and design, addressing a market gap by integrating price prediction with a price lock feature, allowing customers to secure the lowest possible fuel prices.
+
 
 <br></br>
 ## Web-Based Projects:

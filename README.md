@@ -21,7 +21,8 @@
 ## [Job Seeker (2024)](https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline)
 A machine learning-powered job search platform prototype that prioritizes user preferences and provides personalized job recommendations.
 By incorporating preference surveys and A/B job comparisons, the system learns each user's unique preferences. These insights are then integrated into machine learning models to deliver customized job search results, tailored to both users' explicit choices and intrinsic preferences.
-Repositories:
+
+### Repositories:
 - [Job Seeker Data Pipeline](https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline) – Demonstrates the data pipeline and processing.
 - [Job Seeker Microservice](https://github.com/HENRYCCHH/Job_Seeker_Microservice_Python) – Implements the core logic as a Python microservice.
 - A full web application developed in collaboration with [StvChm9703](https://github.com/Stvchm9703/job-seek)
@@ -29,12 +30,12 @@ Repositories:
 
 ## [Energy Oracle - Fuel Price Forecasting Application Video Demonstration (2024)](https://youtu.be/247Yvbs0aCM)
 
-Project Background
+### Project Background
 In 2024, Energy Oracle was launched as a start-up project addressing a growing issue faced by Australian drivers—volatile fuel prices that fluctuate due to global market forces and local supply conditions. In regions like New South Wales, where millions of drivers depend on petrol-powered vehicles, these unpredictable fuel cycles have led to financial strain and disrupted commuting habits.
 
 The Energy Oracle app leverages real-time data and machine learning to forecast fuel price trends, provide personalized alerts, and introduce a price-locking feature to help users secure lower prices ahead of time. By empowering drivers with predictive insights and tailored planning tools, Energy Oracle aims to reduce stress, enhance road safety, and support more sustainable fuel consumption habits.
 
-Executive Summary
+### Executive Summary
 This analysis evaluates over 600k+ fuel price records collected across New South Wales from January to August 2024, with a particular focus on pricing behavior within the Sydney metropolitan area.
 
 Key findings include:
@@ -42,7 +43,7 @@ Key findings include:
 - The average peak-to-trough price increase is approximately 8%, measured from the cycle’s low point, indicating a significant short-term volatility within the retail fuel market.
 -	By analyzing price data at the subregional level, through identifying the lowest 5th percentile of nearby fuel stations within each Sydney Subregion and combining with a one-week price lock mechanism, end users have the potential to reduce their average refueling expenses by up to 16%, relative to filling up during peak periods.
 
-Business Implications:
+### Business Implications:
 - Price cycle awareness can inform smarter consumer behavior, drive app-based alerts, and support loyalty strategies.
 - Location-based price optimization can enable individual drivers to plan refueling efficiently.
 - Integration of price lock features into consumer apps can deliver measurable savings and strengthen user retention.

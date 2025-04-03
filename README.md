@@ -28,8 +28,10 @@ Repositories:
 - [Job Seeker Video Illustration](https://youtu.be/AqKWgewsZsU) – Showcases the platform in action
 
 ## [Energy Oracle - Fuel Price Forecasting Application Video Demonstration (2024)](https://youtu.be/247Yvbs0aCM)
+
 Project Background
 In 2024, Energy Oracle was launched as a start-up project addressing a growing issue faced by Australian drivers—volatile fuel prices that fluctuate due to global market forces and local supply conditions. In regions like New South Wales, where millions of drivers depend on petrol-powered vehicles, these unpredictable fuel cycles have led to financial strain and disrupted commuting habits.
+
 The Energy Oracle app leverages real-time data and machine learning to forecast fuel price trends, provide personalized alerts, and introduce a price-locking feature to help users secure lower prices ahead of time. By empowering drivers with predictive insights and tailored planning tools, Energy Oracle aims to reduce stress, enhance road safety, and support more sustainable fuel consumption habits.
 
 Executive Summary

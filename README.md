@@ -28,7 +28,22 @@ Repositories:
 - [Job Seeker Video Illustration](https://youtu.be/AqKWgewsZsU) – Showcases the platform in action
 
 ## [Energy Oracle - Fuel Price Forecasting Application Video Demonstration (2024)](https://youtu.be/247Yvbs0aCM)
-This project involves the development of a fuel price forecasting application prototype utilizing real-world data. The application is designed to generate data-driven fuel price predictions, providing valuable insights for users. A video demonstration showcases the key concepts and design, addressing a market gap by integrating price prediction with a price lock feature, allowing customers to secure the lowest possible fuel prices.
+Project Background
+In 2024, Energy Oracle was launched as a start-up project addressing a growing issue faced by Australian drivers—volatile fuel prices that fluctuate due to global market forces and local supply conditions. In regions like New South Wales, where millions of drivers depend on petrol-powered vehicles, these unpredictable fuel cycles have led to financial strain and disrupted commuting habits.
+The Energy Oracle app leverages real-time data and machine learning to forecast fuel price trends, provide personalized alerts, and introduce a price-locking feature to help users secure lower prices ahead of time. By empowering drivers with predictive insights and tailored planning tools, Energy Oracle aims to reduce stress, enhance road safety, and support more sustainable fuel consumption habits.
+
+Executive Summary
+This analysis evaluates over 600k+ fuel price records collected across New South Wales from January to August 2024, with a particular focus on pricing behavior within the Sydney metropolitan area.
+Key findings include:
+•	The fuel price cycle in Sydney follows a consistent pattern of 6 to 8 weeks, marked by alternating periods of price peaks and troughs.
+•	The average peak-to-trough price increase is approximately 8%, measured from the cycle’s low point, indicating a significant short-term volatility within the retail fuel market.
+•	By analyzing price data at the subregional level, through identifying the lowest 5th percentile of nearby fuel stations within each Sydney Subregion and combining with a one-week price lock mechanism, end users have the potential to reduce their average refueling expenses by up to 16%, relative to filling up during peak periods.
+Business Implications:
+•	Price cycle awareness can inform smarter consumer behavior, drive app-based alerts, and support loyalty strategies.
+•	Location-based price optimization can enable individual drivers to plan refueling efficiently.
+•	Integration of price lock features into consumer apps can deliver measurable savings and strengthen user retention.
+![image](https://github.com/user-attachments/assets/569e1fff-baf7-4c3f-ba35-b193cac67a56)
+
 
 ## [Stellar Predictive Modeling Pipeline (2024)](https://github.com/HENRYCCHH/Stellar_classification_on_Gaia_Data)
 This project demonstrates the data pipeline for classifying the spectral types of celestial bodies using Gaia data. The project covers data cleaning, preprocessing, and feature engineering, followed by model selection to achieve the best classification performance.

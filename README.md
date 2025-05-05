@@ -15,10 +15,22 @@
 ###
 
 <p align="left">
-  
-## Data Driven Projects:
+
+## Data Analysis & Stakeholder-Focused Project:
+
+## [Energy Oracle – Sydney Fuel Price Trends, Cycle Analysis & Visualization (2024)](https://github.com/HENRYCCHH/Energy_Oracle-Sydney_Fuel_Price_Trends_and_Cycle_Analysis)
+
+![Energy Oracle thumbnail](https://img.youtube.com/vi/247Yvbs0aCM/0.jpg)
+
+Launched in 2024, Energy Oracle is a data-driven project addressing the challenge of volatile fuel prices in New South Wales. By analyzing historical fuel pricing patterns and identifying key drivers of price cycles, the initiative offers actionable insights to help consumers optimize their refueling habits. The project supports the development of the Energy Oracle app, which leverages real-time fuel pricing data and machine learning models to forecast short-term price movements and deliver personalized alerts, empowering users to make informed decisions and reduce fuel expenses.​
+
+
+## Machine Learning & Predictive Modeling:
 
 ## [Job Seeker (2024)](https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline)
+
+![Job Seeker thumbnail](https://img.youtube.com/vi/AqKWgewsZsU/0.jpg)
+
 A machine learning-powered job search platform prototype that prioritizes user preferences and provides personalized job recommendations.
 By incorporating preference surveys and A/B job comparisons, the system learns each user's unique preferences. These insights are then integrated into machine learning models to deliver customized job search results, tailored to both users' explicit choices and intrinsic preferences.
 
@@ -28,48 +40,18 @@ By incorporating preference surveys and A/B job comparisons, the system learns e
 - A full web application developed in collaboration with [StvChm9703](https://github.com/Stvchm9703/job-seek)
 - [Job Seeker Video Illustration](https://youtu.be/AqKWgewsZsU) – Showcases the platform in action
 
-## [Energy Oracle - Fuel Price Forecasting Application Video Demonstration (2024)](https://youtu.be/247Yvbs0aCM)
-
-### Project Background
-In 2024, Energy Oracle was launched as a start-up project addressing a growing issue faced by Australian drivers—volatile fuel prices that fluctuate due to global market forces and local supply conditions. In regions like New South Wales, where millions of drivers depend on petrol-powered vehicles, these unpredictable fuel cycles have led to financial strain and disrupted commuting habits.
-
-The Energy Oracle app leverages real-time data and machine learning to forecast fuel price trends, provide personalized alerts, and introduce a price-locking feature to help users secure lower prices ahead of time. By empowering drivers with predictive insights and tailored planning tools, Energy Oracle aims to reduce stress, enhance road safety, and support more sustainable fuel consumption habits.
-
-### Executive Summary
-This analysis evaluates over 600k+ fuel price records collected across New South Wales from January to August 2024, with a particular focus on pricing behavior within the Sydney metropolitan area.
-
-Key findings include:
-- The fuel price cycle in Sydney follows a consistent pattern of 6 to 8 weeks, marked by alternating periods of price peaks and troughs.
-- The average peak-to-trough price increase is approximately 8%, measured from the cycle’s low point, indicating a significant short-term volatility within the retail fuel market.
--	By analyzing price data at the subregional level, through identifying the lowest 5th percentile of nearby fuel stations within each Sydney Subregion and combining with a one-week price lock mechanism, end users have the potential to reduce their average refueling expenses by up to 16%, relative to filling up during peak periods.
-
-### Business Implications:
-- Price cycle awareness can inform smarter consumer behavior, drive app-based alerts, and support loyalty strategies.
-- Location-based price optimization can enable individual drivers to plan refueling efficiently.
-- Integration of price lock features into consumer apps can deliver measurable savings and strengthen user retention.
-
 
 ## [Stellar Predictive Modeling Pipeline (2024)](https://github.com/HENRYCCHH/Stellar_classification_on_Gaia_Data)
-This project demonstrates the data pipeline for classifying the spectral types of celestial bodies using Gaia data. The project covers data cleaning, preprocessing, and feature engineering, followed by model selection to achieve the best classification performance.
+Applied classification models to astronomical data, emphasizing preprocessing and model evaluation.
 
 ## [Random Forest model implementation (2024)](https://github.com/HENRYCCHH/random_forest_model_implementation)
-The project involves developing a random forest model from scratch and investigating the behavior of this bagging-based ensemble tree structure.
-
+An educational project focused on manually implementing a bagging-based ensemble tree model to understand its core mechanisms.
 
 
 <br></br>
-## Web-Based Projects:
+## Creative & Interactive Visualizations:
 
-## [Online Car Rental System (2023)](https://github.com/HENRYCCHH/Online_Car_Rental_System)
-A web-based platform that allows users to browse, book, and manage car rentals efficiently.
-
-## [Online Grocery Store (2023)](https://github.com/HENRYCCHH/Online_Grocery_Store)
-A web-based platform for purchasing groceries online, offering product browsing, cart management, and secure checkout.
-
-<br></br>
-## Creative Projects:
-
-## [Sonic Geometry (2023)](https://github.com/HENRYCCHH/Sonic_Geometry)
+## [Sonic Geometry (2023) - Musical Data Visualization](https://github.com/HENRYCCHH/Sonic_Geometry)
 This project introduces a novel approach to visualizing musical intervals, highlighting the consonance and dissonance of harmony. It transforms real-time MIDI signals into a sand-painting-inspired visualization, while interactive sliders and gesture controls enable users to manipulate and explore the dynamic visual representation of sound. 
 A video demonstration highlights the application's functionality and key features:[ Exploring Sonic Geometry - A Demo of Creative Fusion](https://youtu.be/Tnxm0caIM3U)
 
@@ -78,28 +60,34 @@ This interactive visualization transforms real-world data from Building 11 of Un
 A video demonstration is available, providing a comprehensive overview of how these elements synergize to deliver an engaging, data-driven experience :[ Interactive Building Simulator: A Creative Data-Driven Visual Experience](https://youtu.be/2RwUtH6Drbs)
 
 <br></br>
-## Micro Projects:
+## Full-Stack & Web Application Projects:
 
-### [Simple Pizza Shop Payment and Ordering System](https://github.com/HENRYCCHH/Pizza_Shop_Payment_and_Ordering_System)
+## [Online Car Rental System (2023)](https://github.com/HENRYCCHH/Online_Car_Rental_System)
+A web-based platform that allows users to browse, book, and manage car rentals efficiently.
+
+## [Online Grocery Store (2023)](https://github.com/HENRYCCHH/Online_Grocery_Store)
+A web-based platform for purchasing groceries online, offering product browsing, cart management, and secure checkout.
+
+
+<br></br>
+## Systems & Micro Projects:
+
+### [Pizza Shop Payment and Ordering System (Python + MySQL)](https://github.com/HENRYCCHH/Pizza_Shop_Payment_and_Ordering_System)
 A Python-based system integrating MySQL designed for a pizza shop. The system allows customers to place orders, process payments, and manage inventory, streamlining kitchen operations.
 
-### [Music Lessons and Studio Booking Database System](https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System)
+### [Music Lessons and Studio Booking Database System (SQL)](https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System)
 An SQL database system designed to manage music lessons and studio bookings for Master Piano Institute. The system facilitates scheduling, student registration, and instructor assignments while optimizing studio availability.
 
 <br></br>
-## Audio Plugin Development Based on Course Projects:
+## Audio Plugin Development (Course-Based):
 
 ### [Simple Equalizer Plugin](https://github.com/HENRYCCHH/SimpleEQ)
-Features frequency spectrum visualization.
 
 ### [Delay Plugin](https://github.com/HENRYCCHH/KPdelay)
-Adds controlled time-based effects.
 
 ### [Chorus & Flanger Plugin](https://github.com/HENRYCCHH/KPChorusFlanger)
-Modulates sound for richer spatial effects.
 
 ### [Gain Control Plugin](https://github.com/HENRYCCHH/KP1)
-Provides volume adjustment.
 <br></br>
 </p>
 

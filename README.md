@@ -20,7 +20,6 @@
 
 ### [Energy Oracle – Sydney Fuel Price Trends, Cycle Analysis & Visualization (2024)](https://github.com/HENRYCCHH/Energy_Oracle-Sydney_Fuel_Price_Trends_and_Cycle_Analysis)
 
-<h3><a href="https://github.com/HENRYCCHH/Energy_Oracle-Sydney_Fuel_Price_Trends_and_Cycle_Analysis" target="_blank">Energy Oracle Project</a></h3>
 <a href="https://github.com/HENRYCCHH/Energy_Oracle-Sydney_Fuel_Price_Trends_and_Cycle_Analysis" target="_blank">
   <img src="https://img.youtube.com/vi/247Yvbs0aCM/0.jpg" width="600" alt="Energy Oracle thumbnail"/>
 </a>
@@ -33,7 +32,7 @@ Launched in 2024, Energy Oracle is a data-driven project addressing the challeng
 
 ### [Job Seeker (2024)](https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline)
 
-<a href="(https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline)" target="_blank">
+<a href="https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline" target="_blank">
   <img src="https://img.youtube.com/vi/AqKWgewsZsU/0.jpg" width="600"/>
 </a>
 
@@ -68,7 +67,7 @@ This project introduces a novel approach to visualizing musical intervals, highl
 A video demonstration highlights the application's functionality and key features:[ Exploring Sonic Geometry - A Demo of Creative Fusion](https://youtu.be/Tnxm0caIM3U)
 
 ### [Building Simulator: Interactive Data Visualization (2023)](https://github.com/HENRYCCHH/Building_Data_Simulator)
-<a href="https://youtu.be/2RwUtH6Drbs" target="_blank">
+<a href="https://github.com/HENRYCCHH/Building_Data_Simulator" target="_blank">
   <img src="https://img.youtube.com/vi/2RwUtH6Drbs/maxresdefault.jpg" width="600"/>
 </a>
 
@@ -106,7 +105,7 @@ A video demonstration is available, providing a comprehensive overview of how th
 A Python-based system integrating MySQL designed for a pizza kitchen. The system allows customers to place orders, process payments, and manage inventory, streamlining kitchen operations.
 
 <h3><a href="https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System" target="_blank">
-Master Piano Institute - Music Lessons and Studio Booking Database System (2023)</a></h3>
+Master Piano Institute - Music Lessons and Studio Booking Database System (SQL)</a></h3>
 
 <a href="https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System" target="_blank">
   <img src="https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System/blob/main/ERD_For_Master_Piano_Institute_Music_Lesson_Database.png?raw=true" 

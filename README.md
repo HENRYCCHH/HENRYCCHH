@@ -20,7 +20,11 @@
 
 ### [Energy Oracle – Sydney Fuel Price Trends, Cycle Analysis & Visualization (2024)](https://github.com/HENRYCCHH/Energy_Oracle-Sydney_Fuel_Price_Trends_and_Cycle_Analysis)
 
-![Energy Oracle thumbnail](https://img.youtube.com/vi/247Yvbs0aCM/0.jpg)(https://github.com/HENRYCCHH/Energy_Oracle-Sydney_Fuel_Price_Trends_and_Cycle_Analysis)
+<h3><a href="https://github.com/HENRYCCHH/Energy_Oracle-Sydney_Fuel_Price_Trends_and_Cycle_Analysis" target="_blank">Energy Oracle Project</a></h3>
+<a href="https://github.com/HENRYCCHH/Energy_Oracle-Sydney_Fuel_Price_Trends_and_Cycle_Analysis" target="_blank">
+  <img src="https://img.youtube.com/vi/247Yvbs0aCM/0.jpg" width="600" alt="Energy Oracle thumbnail"/>
+</a>
+
 
 Launched in 2024, Energy Oracle is a data-driven project addressing the challenge of volatile fuel prices in New South Wales. By analyzing historical fuel pricing patterns and identifying key drivers of price cycles, the initiative offers actionable insights to help consumers optimize their refueling habits. The project supports the development of the Energy Oracle app, which leverages real-time fuel pricing data and machine learning models to forecast short-term price movements and deliver personalized alerts, empowering users to make informed decisions and reduce fuel expenses.​
 
@@ -29,7 +33,10 @@ Launched in 2024, Energy Oracle is a data-driven project addressing the challeng
 
 ### [Job Seeker (2024)](https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline)
 
-![Job Seeker thumbnail](https://img.youtube.com/vi/AqKWgewsZsU/0.jpg)(https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline)
+<a href="(https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline)" target="_blank">
+  <img src="https://img.youtube.com/vi/AqKWgewsZsU/0.jpg" width="600"/>
+</a>
+
 
 A machine learning-powered job search platform prototype that prioritizes user preferences and provides personalized job recommendations.
 By incorporating preference surveys and A/B job comparisons, the system learns each user's unique preferences. These insights are then integrated into machine learning models to deliver customized job search results, tailored to both users' explicit choices and intrinsic preferences.
@@ -63,7 +70,7 @@ A video demonstration highlights the application's functionality and key feature
 ### [Building Simulator: Interactive Data Visualization (2023)](https://github.com/HENRYCCHH/Building_Data_Simulator)
 <a href="https://youtu.be/2RwUtH6Drbs" target="_blank">
   <img src="https://img.youtube.com/vi/2RwUtH6Drbs/maxresdefault.jpg" width="600"/>
-</a>]
+</a>
 
 This interactive visualization transforms real-world data from Building 11 of University of Technology Sydney into a dynamic simulation using three days of FEIT website data processed in 5-minute intervals. Raindrops and piano cues illustrate rainfall and flooding, animated figures depict building occupancy, and adaptive solar effects highlight environmental conditions, all navigable through intuitive time controls.
 A video demonstration is available, providing a comprehensive overview of how these elements synergize to deliver an engaging, data-driven experience :[ Interactive Building Simulator: A Creative Data-Driven Visual Experience](https://youtu.be/2RwUtH6Drbs)
@@ -72,23 +79,23 @@ A video demonstration is available, providing a comprehensive overview of how th
 
 ## Full-Stack & Web Application Projects:
 
-### [Online Car Rental System (2023)](https://github.com/HENRYCCHH/Online_Car_Rental_System)
+
 <h3><a href="https://github.com/HENRYCCHH/Online_Car_Rental_System" target="_blank">Online Car Rental System (2023)</a></h3>
 <a href="https://github.com/HENRYCCHH/Online_Car_Rental_System" target="_blank">
   <img src="https://github.com/HENRYCCHH/Online_Car_Rental_System/blob/main/image/webpage_demo.png?raw=true" width="600" alt="Car Rental Demo Screenshot"/>
 </a>
 <p>A web-based platform that allows users to browse, book, and manage car rentals efficiently.</p>
 
-A web-based platform that allows users to browse, book, and manage car rentals efficiently.
 
-### [Online Grocery Store (2023)](https://github.com/HENRYCCHH/Online_Grocery_Store)
+
+
 <h3><a href="https://github.com/HENRYCCHH/Online_Grocery_Store" target="_blank">Online Grocery Store (2023)</a></h3>
 <a href="https://github.com/HENRYCCHH/Online_Grocery_Store" target="_blank">
   <img src="https://github.com/HENRYCCHH/Online_Grocery_Store/blob/main/webpage_demo_screen_shot/1_mainpage.png?raw=true" width="600" alt="Grocery Store Demo Screenshot"/>
 </a>
 <p>A web-based platform for purchasing groceries online, offering product browsing, cart management, and secure checkout.</p>
 
-A web-based platform for purchasing groceries online, offering product browsing, cart management, and secure checkout.
+
 
 
 <br></br>
@@ -98,9 +105,8 @@ A web-based platform for purchasing groceries online, offering product browsing,
 ### [Pizza Kitchen Payment and Ordering System (Python + MySQL)](https://github.com/HENRYCCHH/Pizza_Shop_Payment_and_Ordering_System)
 A Python-based system integrating MySQL designed for a pizza kitchen. The system allows customers to place orders, process payments, and manage inventory, streamlining kitchen operations.
 
-### [Master Piano Institute - Music Lessons and Studio Booking Database System (SQL)](https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System)
 <h3><a href="https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System" target="_blank">
-Music Lessons and Studio Booking Database System (2023)</a></h3>
+Master Piano Institute - Music Lessons and Studio Booking Database System (2023)</a></h3>
 
 <a href="https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System" target="_blank">
   <img src="https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System/blob/main/ERD_For_Master_Piano_Institute_Music_Lesson_Database.png?raw=true" 
@@ -109,31 +115,27 @@ Music Lessons and Studio Booking Database System (2023)</a></h3>
 </a>
 <p>An SQL-based system for managing music lessons and studio bookings, featuring scheduling, student registration, and instructor assignment.</p>
 
-An SQL database system designed to manage music lessons and studio bookings for Master Piano Institute. The system facilitates scheduling, student registration, and instructor assignments while optimizing studio availability.
-
 <br></br>
 
 ## Audio Plugin Development (Course-Based):
 
-### [Simple Equalizer Plugin](https://github.com/HENRYCCHH/SimpleEQ)
 <h3><a href="https://github.com/HENRYCCHH/SimpleEQ" target="_blank">Simple Equalizer Plugin</a></h3>
 <a href="https://github.com/HENRYCCHH/SimpleEQ" target="_blank">
   <img src="https://github.com/HENRYCCHH/SimpleEQ/blob/main/SimpleEQ_GUI.png?raw=true" width="500" alt="Simple EQ GUI"/>
 </a>
 
 
-### [Delay Plugin](https://github.com/HENRYCCHH/KPdelay)
 <h3><a href="https://github.com/HENRYCCHH/KPdelay" target="_blank">Delay Plugin</a></h3>
 <a href="https://github.com/HENRYCCHH/KPdelay" target="_blank">
   <img src="https://github.com/HENRYCCHH/KPdelay/blob/main/Delay_GUI.png?raw=true" width="500" alt="Delay Plugin GUI"/>
 </a>
 
 
-### [Chorus & Flanger Plugin](https://github.com/HENRYCCHH/KPChorusFlanger)
 <h3><a href="https://github.com/HENRYCCHH/KPChorusFlanger" target="_blank">Chorus & Flanger Plugin</a></h3>
 <a href="https://github.com/HENRYCCHH/KPChorusFlanger" target="_blank">
   <img src="https://github.com/HENRYCCHH/KPChorusFlanger/blob/main/ChorusFlanger_GUI.png?raw=true" width="500" alt="Chorus Flanger Plugin GUI"/>
 </a>
+
 
 
 ### [Gain Control Plugin](https://github.com/HENRYCCHH/KP1)

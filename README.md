@@ -18,74 +18,88 @@
 
 ## Data Analysis & Stakeholder-Focused Project:
 
-## [Energy Oracle – Sydney Fuel Price Trends, Cycle Analysis & Visualization (2024)](https://github.com/HENRYCCHH/Energy_Oracle-Sydney_Fuel_Price_Trends_and_Cycle_Analysis)
+### [Energy Oracle – Sydney Fuel Price Trends, Cycle Analysis & Visualization (2024)](https://github.com/HENRYCCHH/Energy_Oracle-Sydney_Fuel_Price_Trends_and_Cycle_Analysis)
 
-![Energy Oracle thumbnail](https://img.youtube.com/vi/247Yvbs0aCM/0.jpg)
+[![Energy Oracle thumbnail](https://img.youtube.com/vi/247Yvbs0aCM/0.jpg)(https://github.com/HENRYCCHH/Energy_Oracle-Sydney_Fuel_Price_Trends_and_Cycle_Analysis)]
 
 Launched in 2024, Energy Oracle is a data-driven project addressing the challenge of volatile fuel prices in New South Wales. By analyzing historical fuel pricing patterns and identifying key drivers of price cycles, the initiative offers actionable insights to help consumers optimize their refueling habits. The project supports the development of the Energy Oracle app, which leverages real-time fuel pricing data and machine learning models to forecast short-term price movements and deliver personalized alerts, empowering users to make informed decisions and reduce fuel expenses.​
 
 
 ## Machine Learning & Predictive Modeling:
 
-## [Job Seeker (2024)](https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline)
+### [Job Seeker (2024)](https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline)
 
-![Job Seeker thumbnail](https://img.youtube.com/vi/AqKWgewsZsU/0.jpg)
+[![Job Seeker thumbnail](https://img.youtube.com/vi/AqKWgewsZsU/0.jpg)(https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline)]
 
 A machine learning-powered job search platform prototype that prioritizes user preferences and provides personalized job recommendations.
 By incorporating preference surveys and A/B job comparisons, the system learns each user's unique preferences. These insights are then integrated into machine learning models to deliver customized job search results, tailored to both users' explicit choices and intrinsic preferences.
 
-### Repositories:
+#### Repositories:
 - [Job Seeker Data Pipeline](https://github.com/HENRYCCHH/Job_Seeker_Data_Pipeline) – Demonstrates the data pipeline and processing.
 - [Job Seeker Microservice](https://github.com/HENRYCCHH/Job_Seeker_Microservice_Python) – Implements the core logic as a Python microservice.
 - A full web application developed in collaboration with [StvChm9703](https://github.com/Stvchm9703/job-seek)
 - [Job Seeker Video Illustration](https://youtu.be/AqKWgewsZsU) – Showcases the platform in action
 
 
-## [Stellar Predictive Modeling Pipeline (2024)](https://github.com/HENRYCCHH/Stellar_classification_on_Gaia_Data)
+### [Stellar Predictive Modeling Pipeline (2024)](https://github.com/HENRYCCHH/Stellar_classification_on_Gaia_Data)
 Applied classification models to astronomical data, emphasizing preprocessing and model evaluation.
 
-## [Random Forest model implementation (2024)](https://github.com/HENRYCCHH/random_forest_model_implementation)
+### [Random Forest model implementation (2024)](https://github.com/HENRYCCHH/random_forest_model_implementation)
 An educational project focused on manually implementing a bagging-based ensemble tree model to understand its core mechanisms.
 
 
 <br></br>
+
 ## Creative & Interactive Visualizations:
 
-## [Sonic Geometry (2023) - Musical Data Visualization](https://github.com/HENRYCCHH/Sonic_Geometry)
+### [Sonic Geometry (2023) - Musical Data Visualization](https://github.com/HENRYCCHH/Sonic_Geometry)
+[![Sonic Geometry thumbnail](https://github.com/HENRYCCHH/Sonic_Geometry/blob/main/Sonic_geometry_thumbnail.png)(https://github.com/HENRYCCHH/Sonic_Geometry)]
+
 This project introduces a novel approach to visualizing musical intervals, highlighting the consonance and dissonance of harmony. It transforms real-time MIDI signals into a sand-painting-inspired visualization, while interactive sliders and gesture controls enable users to manipulate and explore the dynamic visual representation of sound. 
 A video demonstration highlights the application's functionality and key features:[ Exploring Sonic Geometry - A Demo of Creative Fusion](https://youtu.be/Tnxm0caIM3U)
 
-## [UTS Building Simulator: Interactive Data Visualization (2023)](https://github.com/HENRYCCHH/Building_Data_Simulator)
+### [Building Simulator: Interactive Data Visualization (2023)](https://github.com/HENRYCCHH/Building_Data_Simulator)
+[![UTS Building Simulator thumbnail](https://img.youtube.com/vi/2RwUtH6Drbs/maxresdefault.jpg)(https://github.com/HENRYCCHH/Building_Data_Simulator)]
+
 This interactive visualization transforms real-world data from Building 11 of University of Technology Sydney into a dynamic simulation using three days of FEIT website data processed in 5-minute intervals. Raindrops and piano cues illustrate rainfall and flooding, animated figures depict building occupancy, and adaptive solar effects highlight environmental conditions, all navigable through intuitive time controls.
 A video demonstration is available, providing a comprehensive overview of how these elements synergize to deliver an engaging, data-driven experience :[ Interactive Building Simulator: A Creative Data-Driven Visual Experience](https://youtu.be/2RwUtH6Drbs)
 
 <br></br>
+
 ## Full-Stack & Web Application Projects:
 
-## [Online Car Rental System (2023)](https://github.com/HENRYCCHH/Online_Car_Rental_System)
+### [Online Car Rental System (2023)](https://github.com/HENRYCCHH/Online_Car_Rental_System)
+[![webpage demo](https://github.com/HENRYCCHH/Online_Car_Rental_System/blob/main/image/webpage_demo.png)](https://github.com/HENRYCCHH/Online_Car_Rental_System)
 A web-based platform that allows users to browse, book, and manage car rentals efficiently.
 
-## [Online Grocery Store (2023)](https://github.com/HENRYCCHH/Online_Grocery_Store)
+### [Online Grocery Store (2023)](https://github.com/HENRYCCHH/Online_Grocery_Store)
+[![Webpage demo](https://github.com/HENRYCCHH/Online_Grocery_Store/blob/main/webpage_demo_screen_shot/1_mainpage.png)](https://github.com/HENRYCCHH/Online_Grocery_Store)
 A web-based platform for purchasing groceries online, offering product browsing, cart management, and secure checkout.
 
 
 <br></br>
+
 ## Systems & Micro Projects:
 
-### [Pizza Shop Payment and Ordering System (Python + MySQL)](https://github.com/HENRYCCHH/Pizza_Shop_Payment_and_Ordering_System)
-A Python-based system integrating MySQL designed for a pizza shop. The system allows customers to place orders, process payments, and manage inventory, streamlining kitchen operations.
+### [Pizza Kitchen Payment and Ordering System (Python + MySQL)](https://github.com/HENRYCCHH/Pizza_Shop_Payment_and_Ordering_System)
+A Python-based system integrating MySQL designed for a pizza kitchen. The system allows customers to place orders, process payments, and manage inventory, streamlining kitchen operations.
 
-### [Music Lessons and Studio Booking Database System (SQL)](https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System)
+### [Master Piano Institute - Music Lessons and Studio Booking Database System (SQL)](https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System)
+[![Master Piano Institute ERD diagram](https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System/blob/main/ERD_For_Master_Piano_Institute_Music_Lesson_Database.png)](https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System)
 An SQL database system designed to manage music lessons and studio bookings for Master Piano Institute. The system facilitates scheduling, student registration, and instructor assignments while optimizing studio availability.
 
 <br></br>
+
 ## Audio Plugin Development (Course-Based):
 
 ### [Simple Equalizer Plugin](https://github.com/HENRYCCHH/SimpleEQ)
+[![Simple EQ GUI](https://github.com/HENRYCCHH/SimpleEQ/blob/main/SimpleEQ_GUI.png)](https://github.com/HENRYCCHH/SimpleEQ)
 
 ### [Delay Plugin](https://github.com/HENRYCCHH/KPdelay)
+[![Delay GUI](https://github.com/HENRYCCHH/KPdelay/blob/main/Delay_GUI.png)](https://github.com/HENRYCCHH/KPdelay)
 
 ### [Chorus & Flanger Plugin](https://github.com/HENRYCCHH/KPChorusFlanger)
+[![ChorusFlanger_GUI](https://github.com/HENRYCCHH/KPChorusFlanger/blob/main/ChorusFlanger_GUI.png)](https://github.com/HENRYCCHH/KPChorusFlanger)
 
 ### [Gain Control Plugin](https://github.com/HENRYCCHH/KP1)
 <br></br>

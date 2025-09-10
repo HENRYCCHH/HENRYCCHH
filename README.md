@@ -18,7 +18,7 @@
 
 ## Data Analysis & Stakeholder-Focused Project:
 
-### [AI-Augmented Revenue Analytics Dashboard (2025)](https://github.com/HENRYCCHH/henry-automated-bi)
+### [AI-Augmented Revenue Analytics Dashboard (2025)](https://github.com/HENRYCCHH/AI-Powered-Executive-BI-Dashboard-for-Revenue-Analytics)
 
 <a href="https://github.com/HENRYCCHH/AI-Powered-Executive-BI-Dashboard-for-Revenue-Analytics" target="_blank">
   <img src="https://github.com/HENRYCCHH/AI-Powered-Executive-BI-Dashboard-for-Revenue-Analytics/raw/main/assets/PowerBI_dashboard_demo.gif" width="600" alt="AI-Augmented Revenue Dashboard demo"/>

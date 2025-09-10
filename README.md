@@ -20,8 +20,8 @@
 
 ### [AI-Augmented Revenue Analytics Dashboard (GA4 → Snowflake → Power BI + Gemini)](https://github.com/HENRYCCHH/henry-automated-bi)
 
-<a href="https://github.com/HENRYCCHH/henry-automated-bi" target="_blank">
-  <img src="https://github.com/HENRYCCHH/henry-automated-bi/raw/main/assets/PowerBI_dashboard_demo.gif" width="600" alt="AI-Augmented Revenue Dashboard demo"/>
+<a href="https://github.com/HENRYCCHH/AI-Powered-Executive-BI-Dashboard-for-Revenue-Analytics" target="_blank">
+  <img src="https://github.com/HENRYCCHH/AI-Powered-Executive-BI-Dashboard-for-Revenue-Analytics/raw/main/assets/PowerBI_dashboard_demo.gif" width="600" alt="AI-Augmented Revenue Dashboard demo"/>
 </a>
 
 An end-to-end, AI-powered executive dashboard that turns GA4 data into daily revenue insights. Pipeline: GA4 → BigQuery → GCS (Parquet) → Snowflake (Storage Integration + Snowpipe) → dbt marts → Python (Google Gemini) → Power BI. The report refreshes automatically, shows total/month/week/day windows, and writes concise plain-English narratives (headline, bullets, “Next steps”) back into Snowflake for display in Power BI. Built with least-privilege roles, backfill + daily writer jobs, and compact UI cards for clean storytelling.
